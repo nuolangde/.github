@@ -1,3 +1,7 @@
+*.log
+.DS_Store
+Thumbs.db
+/.fleet
 /.idea
 /.vscode
-.DS_Store
+/.zed
